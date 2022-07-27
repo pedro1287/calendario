@@ -803,7 +803,7 @@ def onmessage(update,bot:ObigramClient):
   
 
 def main():
-    bot_token = os.environ.get('bot_token')
+    bot_token = os.environ.get('5497719533:AAHnIndn8xwlldDnYTV0q9njpANZcgWNdAc')
     
 
     bot = ObigramClient(5497719533:AAHnIndn8xwlldDnYTV0q9njpANZcgWNdAc)
