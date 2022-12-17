@@ -806,7 +806,7 @@ def main():
     bot_token = os.environ.get(')
     
 
-    bot = ObigramClient( )
+    bot = ObigramClient('5950012850:AAH_ykc_kL7yRgbxAvHq0dCrbLzBhmv10Hw')
     bot.onMessage(onmessage)
     bot.run()
     asyncio.run()
